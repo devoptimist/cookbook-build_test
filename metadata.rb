@@ -1,0 +1,11 @@
+name 'build_test'
+maintainer 'Steve Brown'
+maintainer_email 'stephenb583@gmail.com'
+license 'Apache-2.0'
+description 'Installs/Configures build_test'
+long_description 'Installs/Configures build_test'
+version '0.1.0'
+chef_version '>= 12.1' if respond_to?(:chef_version)
+supports 'fedora'
+issues_url 'https://github.com/devoptimist/build_test/issues'
+source_url 'https://github.com/devoptimist/build_test'
